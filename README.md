@@ -1,5 +1,5 @@
 # grapher
-2D matplotlib plotting of functions, implicit equations, binary relations
+A Jupyter notebook providing a convenient graphing function that uses matplotlib to plot functions, implicit equations, binary relations.
 
 Graph a function
 
